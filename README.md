@@ -30,6 +30,9 @@ The Scribe focuses upon the sanctity of "Arcane Infrastructure" - the securing o
 > *Objective: Secure the fortress networks.*
 > Architecting complex virtualized routing through **OPNsense** and **Proxmox**. Solving the riddles of multi-tenant DHCP and routing to create a seamless, impenetrable infrastructure.
 
+**🐉 Wizard School**
+> *Objective: Commit the forbidden scrolls to memory and pass the wizarding test.*
+> Absorbing the arcane power of the A+, Network+, Security+, CySa+, and RHCSA scrolls.
 ---
 
 ### 📖 The Spellbook
