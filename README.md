@@ -32,7 +32,7 @@ The Scribe focuses upon the sanctity of "Arcane Infrastructure" - the securing o
 
 **🐉 Wizard School**
 > *Objective: Commit the forbidden scrolls to memory and pass the wizarding test.*
-> Absorbing the arcane power of the A+, Network+, Security+, CySa+, and RHCSA scrolls.
+> Absorbing the arcane power of the A+, Network+, Security+, CySA+, and RHCSA scrolls.
 ---
 
 ### 📖 The Spellbook
